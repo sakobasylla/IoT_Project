@@ -1,0 +1,36 @@
+!SESSION 2021-05-16 09:36:56.789 -----------------------------------------------
+eclipse.buildId=Version 1.6.0
+java.version=11.0.9.1
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-05-16 09:37:58.377
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-05-16 09:37:58.582
+!MESSAGE Log4j initialized with config file /home/sylla/Mes_Projets/IoT_Project/STM32/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2021-05-16 09:38:04.092
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-05-16 09:38:26.833
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-05-16 09:45:13.122
+!MESSAGE Indexed 'blink' (22 sources, 82 headers) in 11.7 sec: 4,539 declarations; 24,941 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0068%)
+
+!ENTRY org.eclipse.cdt.dsf.gdb 4 104 2021-05-16 12:04:10.735
+!MESSAGE Program file does not exist
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 104 2021-05-16 12:04:10.735
+!MESSAGE 
+
+!ENTRY org.eclipse.cdt.dsf.gdb 4 104 2021-05-16 12:07:12.854
+!MESSAGE Program file does not exist
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 104 2021-05-16 12:07:12.854
+!MESSAGE 
+
+!ENTRY org.eclipse.cdt.dsf.gdb 4 104 2021-05-16 12:09:18.672
+!MESSAGE Program file does not exist
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 104 2021-05-16 12:09:18.672
+!MESSAGE 
